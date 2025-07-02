@@ -1,0 +1,6 @@
+🔧 1. Requirements
+Tool	Version	Description
+Python	3.10+	Interpreter for the script
+pip	latest	Python package manager
+Git	latest	Version control system
+Discord Bot	created	With bot token & permissions
